@@ -1,2 +1,54 @@
 
-key: val
+ElasticNet:
+  alpha: 0.5
+  l1_ratio: 0.7
+
+# models:
+#   LinearRegression: {}
+
+#   Ridge:
+#     alpha: 1.0
+#     solver: auto
+
+#   Lasso:
+#     alpha: 0.1
+
+#   ElasticNet:
+#     alpha: 0.5
+#     l1_ratio: 0.7
+
+#   DecisionTreeRegressor:
+#     criterion: squared_error
+#     max_depth: 5
+#     min_samples_split: 2
+
+#   RandomForestRegressor:
+#     n_estimators: 100
+#     max_depth: 10
+#     random_state: 42
+
+#   GradientBoostingRegressor:
+#     n_estimators: 100
+#     learning_rate: 0.1
+#     max_depth: 3
+
+#   SVR:
+#     kernel: rbf
+#     C: 1.0
+#     epsilon: 0.1
+
+#   KNeighborsRegressor:
+#     n_neighbors: 5
+#     weights: uniform
+
+#   XGBRegressor:
+#     n_estimators: 100
+#     learning_rate: 0.1
+#     max_depth: 3
+#     objective: reg:squarederror
+
+#   LightGBMRegressor:
+#     n_estimators: 100
+#     learning_rate: 0.1
+#     max_depth: -1
+#     objective: regression
