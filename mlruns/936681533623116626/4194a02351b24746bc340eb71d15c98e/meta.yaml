@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/ML_Projects/Wine_Quality_Project/mlruns/936681533623116626/4194a02351b24746bc340eb71d15c98e/artifacts
+end_time: 1748735347569
+entry_point_name: ''
+experiment_id: '936681533623116626'
+lifecycle_stage: active
+run_id: 4194a02351b24746bc340eb71d15c98e
+run_name: righteous-yak-723
+run_uuid: 4194a02351b24746bc340eb71d15c98e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748735323798
+status: 4
+tags: []
+user_id: Rajpar

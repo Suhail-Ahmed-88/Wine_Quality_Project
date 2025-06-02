@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a439c374e99e478e9bd4f41433e0d281/artifacts
+end_time: 1748731370319
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a439c374e99e478e9bd4f41433e0d281
+run_name: gaudy-grub-81
+run_uuid: a439c374e99e478e9bd4f41433e0d281
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748731354695
+status: 4
+tags: []
+user_id: Rajpar
